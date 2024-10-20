@@ -1,0 +1,14 @@
+Description,,Summary Amt.
+Beginning balance as of 03/09/2023,,"57,692.36"
+Total credits,,"295.67"
+Total debits,,"-1,400.00"
+Ending balance as of 04/05/2023,,"56,588.03"
+
+Date,Description,Amount,Running Bal.
+03/09/2023,Beginning balance as of 03/09/2023,,"57,692.36"
+04/03/2023,"Online Banking transfer to CHK 0275 Confirmation# XXXXX13509","-400.00","57,292.36"
+04/03/2023,"Online Banking transfer to CHK 0275 Confirmation# XXXXX70447","-1,000.00","56,292.36"
+04/05/2023,"BKOFAMERICA MOBILE 04/05 XXXXX24182 DEPOSIT *MOBILE CA","192.63","56,484.99"
+04/05/2023,"BKOFAMERICA MOBILE 04/05 XXXXX64900 DEPOSIT *MOBILE CA","100.00","56,584.99"
+04/05/2023,"BKOFAMERICA MOBILE 04/05 XXXXX71698 DEPOSIT *MOBILE CA","1.72","56,586.71"
+04/05/2023,"Interest Earned","1.32","56,588.03"
