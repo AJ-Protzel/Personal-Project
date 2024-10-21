@@ -1,0 +1,1 @@
+Data\Debit\BofA\stmt (10).csv: ['01/02/2024', 'Zelle payment from RANDAL LUCKMAN for Test of Zelle transfer. Hi AJ', ' let me know if y"; Conf# owjcgtyu8"', '1.00', '1,301.03']

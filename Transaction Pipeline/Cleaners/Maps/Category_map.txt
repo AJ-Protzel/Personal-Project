@@ -1,0 +1,7 @@
+zelle,cash
+transfer,transfer
+interest,cash
+fee,cash
+deposit,cash
+withdrawal,cash
+rocket mortgage,utilities

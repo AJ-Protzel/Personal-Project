@@ -1,0 +1,12 @@
+Year,Month,Date,Description,Category,Amount,Account,Bank,Card
+2023,May,05/08/2023,transfer,transfer,-100.00,Debit,BofA,Savings
+2023,May,05/11/2023,transfer,transfer,730.10,Debit,BofA,Savings
+2023,May,05/15/2023,transfer,transfer,-832.10,Debit,BofA,Savings
+2023,May,05/22/2023,transfer,transfer,-100.00,Debit,BofA,Savings
+2023,June,06/02/2023,transfer,transfer,"1,500.00",Debit,BofA,Savings
+2023,June,06/02/2023,transfer,transfer,"-1,400.00",Debit,BofA,Savings
+2023,June,06/02/2023,transfer,transfer,"-48,837.02",Debit,BofA,Savings
+2023,June,06/02/2023,rocket mortgage,utilities,"-1,475.75",Debit,BofA,Savings
+2023,June,06/02/2023,rocket mortgage,utilities,"-1,475.75",Debit,BofA,Savings
+2023,June,06/02/2023,transfer,transfer,-30.00,Debit,BofA,Savings
+2023,June,06/06/2023,interest,cash,1.17,Debit,BofA,Savings
