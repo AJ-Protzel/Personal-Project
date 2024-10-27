@@ -1,0 +1,44 @@
+zelle,zelle
+transfer,transfer
+interest,interest
+fee,fee
+deposit,deposit
+wealthfront,transfer
+franchise tax bd,deposit
+or revenue dept,deposit
+irs treas,deposit
+withdrwl,withdrawal
+counter credit,deposit
+bill payment,transfer
+wire,transfer
+rocket mortgage,rocket mortgage
+cashreward,interest
+all america bank des,transfer
+charge refund,fee
+withdrawal,withdrawal
+robinhood,interest
+costco,costco
+ba electronic payment,transfer
+freetaxusa,free tax usa
+fairyloot,fairyloot
+pg&e,pg&e
+xfinity mobile,xfinity mobile
+comcast cable,xfinity internet
+portland general electric,pge
+el dorado irrigation,eid
+el dorado disposal,el dorado trash
+officemax,officemax
+in-n-out,in n out
+carl's jr,carl's jr.
+gen korean bbq,gen korean bbq
+fred-meyer,fred meyer
+asian food center,asian family market
+steam purchase,steam
+76 - n & s oil,gas
+steamgames,steam
+google *xavier liard,google xavier liard
+safeway,safeway
+amzn mktp,amazon
+calif dmv,california dmv
+comcast,xfinity internet
+usps,usps

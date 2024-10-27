@@ -1,0 +1,29 @@
+zelle,cash
+transfer,transfer
+interest,cash
+fee,cash
+deposit,cash
+withdrawal,cash
+costco,grocery
+free tax usa,cash
+pg&e,Bills & Utilities
+xfinity mobile,Bills & Utilities
+xfinity internet,Bills & Utilities
+pge,Bills & Utilities
+eid,Bills & Utilities
+fairyloot,Bills & Utilities
+el dorado trash,Bills & Utilities
+officemax,Shopping
+in n out,Restaurant
+carl's jr.,Restaurant
+gen korean bbq,Restaurant
+fred meyer,Groceries
+asian family market,Groceries
+steam,Shopping
+gas,Gas
+google xavier liard,Gas
+safeway,Groceries
+amazon,Shopping
+california dmv,Bills & Utilities
+usps,Shopping
+rocket mortgage,Bills & Utilities
